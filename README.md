@@ -13,8 +13,13 @@ The faster your factories catch up to dispersed production under concentrated.
 For reference, with how I play Rykov's path (strongest communist SOV path barring early COMECON), I can get to 253% factory output and 140% production efficiency cap and under those specs Concentrated is better than Dispersed by Day 305 of the factory's life. With Stalin as leader, you can't get such stats (because your advisors suck and don't have enough time to do all the focuses) so your factory produces more cumulatively under Concentrated after Day 321 and produce around 80% of what a factory under Rykov's path would produce after Day 500.
 
 A few results:
+
 ![Rykov's path (best no early COMECON Soviet path)](sov_rykov.png)
+
 ![Stalin's path](sov_stalin.png)
+
 ![Germany under PEG (the better path because you get free trade)](ger_PEG.png)
+
 ![Germany under 4YP using Goering as econ inner circle member](ger_4yp_goering.png)
+
 ![Germany under 4YP using Speer as econ inner circle member](ger_4yp_speer.png)
