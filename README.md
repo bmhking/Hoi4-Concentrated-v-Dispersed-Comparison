@@ -14,12 +14,17 @@ For reference, with how I play Rykov's path (strongest communist SOV path barrin
 
 A few results:
 
-![Rykov's path (best no early COMECON Soviet path)](sov_rykov.png)
+Rykov's path (best no early COMECON Soviet path):
+![](sov_rykov.png)
 
-![Stalin's path](sov_stalin.png)
+Stalin's path:
+![](sov_stalin.png)
 
-![Germany under PEG (the better path because you get free trade)](ger_PEG.png)
+Germany under PEG (the better path because you get free trade):
+![](ger_PEG.png)
 
-![Germany under 4YP using Goering as econ inner circle member](ger_4yp_goering.png)
+Germany under 4YP using Goering as econ inner circle member:
+![](ger_4yp_goering.png)
 
-![Germany under 4YP using Speer as econ inner circle member](ger_4yp_speer.png)
+Germany under 4YP using Speer as econ inner circle member:
+![](ger_4yp_speer.png)
